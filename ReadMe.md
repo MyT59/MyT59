@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a student from President University majoring in Informatics with consentration in Cyber Security<br>for now im focusing in Web Development
+Im a student from President University majoring in Informatics with consentration in Cyber Security<br>for now im focusing in Web Development and AI Enginering
 
 
 ## 🌐 Socials:
