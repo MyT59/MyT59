@@ -12,7 +12,7 @@ Im a student from President University majoring in Informatics with consentratio
 ![](https://nirzak-streak-stats.vercel.app/?user=MyT59&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MyT59&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MyT59&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
